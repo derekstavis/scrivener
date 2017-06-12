@@ -1,0 +1,3 @@
+package: github.com/derekstavis/scrivener
+import:
+- package: github.com/olekukonko/tablewriter
